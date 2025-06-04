@@ -1,9 +1,8 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
 <div align="center">
 
-<img src="images/primaryexample.png" width="278" height="172" />
+<img src="images/primaryexample.png" width="278" height="172"  alt="frame from the playtest of the Asteroids game"/>
 
 # Asteroids
 
