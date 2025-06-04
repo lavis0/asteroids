@@ -1,3 +1,6 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+
 <div align="center">
 
 <img src="images/primaryexample.png" width="278" height="172" />
@@ -6,7 +9,7 @@
 
 A classic space shooter game recreated in Python using Pygame.
 
-[View Demo](#usage) · [Report Bug](https://github.com/username/asteroids/issues) · [Request Feature](https://github.com/username/asteroids/issues)
+[View Demo](#usage) · [Report Bug](https://github.com/lavis0/asteroids/issues) · [Request Feature](https://github.com/lavis0/asteroids/issues)
 
 </div>
 
@@ -78,7 +81,7 @@ Make sure you have Python installed on your system:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/username/asteroids.git
+   git clone https://github.com/lavis0/asteroids.git
    ```
 
 2. Navigate to the project directory
@@ -151,7 +154,7 @@ Navigate through space, avoid asteroids, and shoot them to survive as long as po
 * [ ] Add a speed power-up
 * [ ] Add bombs that can be dropped
 
-See the [open issues](https://github.com/username/asteroids/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lavis0/asteroids/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,7 +186,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Joshua Banga - <josh@folient.com>
 
-Project Link: [https://github.com/lavis0/asteroids](https://github.com/username/asteroids)
+Project Link: [https://github.com/lavis0/asteroids](https://github.com/lavis0/asteroids)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
