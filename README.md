@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="images/primaryexample.png" width="278" height="172" />
+
 # Asteroids
 
 A classic space shooter game recreated in Python using Pygame.
@@ -117,6 +119,10 @@ To start the game, simply run:
 ```sh
 python main.py
 ```
+
+![first example of the game in motion](images/example.png)
+
+![second example of the game in motion](images/example2.png)
 
 The game runs at **1280x720 resolution**. Use the following controls:
 
